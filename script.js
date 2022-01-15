@@ -14,18 +14,18 @@
 
 var songs = [
     {
-        name:"Sing Me To Sleep",
+        name:"1",
         singer:"Alan Walker",
         duration:"03:11",
-        url:"songs/Sing_Me_To_Sleep.mp3",
+        url:"http://stream.zeno.fm/y7n8qfmh838uv",
         albumArt:"images/Sing_Me_To_Sleep.jpg"
     },
 
     {
-        name:"Lily",
+        name:"2",
         singer:"Alan Walker",
         duration:"03:16",
-        url:"songs/Lily.mp3",
+        url:"http://stream.zeno.fm/39zagfub938uv",
         albumArt:"images/Lily.jpg"
     },
 
